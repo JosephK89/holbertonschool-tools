@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mindepth -empty | cut -d" " -f 9 | wc -l 
+find . -empty | cut -d" " -f 9 | wc -l 
