@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%b" "$($TRUEKNOWLEDGE+128)\n"
+printf "%b" "$TRUEKNOWLEDGE+128\n"
